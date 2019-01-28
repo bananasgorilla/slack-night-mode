@@ -396,7 +396,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 #footer_archives_table { color: #949494; }
 
-#typing_text { color: #949494; filter: none; }
+#typing_text { color: #fff; filter: none; }
 
 #notification_bar.wide #typing_text.overflow_ellipsis { -webkit-filter: none; filter: none; }
 
